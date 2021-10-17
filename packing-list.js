@@ -4,6 +4,8 @@ const packingList = ["bowls", "plates", "pots", "pans", "eating utensils", "glas
 
 
 
+
+
 //using a for loop
 /*
 console.log("Kitchen stuff to pack:");
@@ -15,6 +17,8 @@ for (let i = 0; i < packingList.length; i++) {
 
 
 //using a while loop
+
+
 
 console.log("Kitchen stuff to pack:");
 let i = 0;
